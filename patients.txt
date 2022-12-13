@@ -1,0 +1,7 @@
+12   Pankaj                 Cancer          Male            30
+            
+13   Janina                 Cold            Female          23
+            
+14   Alonna                 Malaria         Female          45
+            
+15   Ravi                   Diabetes        Male            65  

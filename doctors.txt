@@ -1,0 +1,12 @@
+62   Dr. Smith              Heart           6am-11am        PHD             12          
+
+32  Dr.Vikram              Physician       10pm-3am        MBBS,MD         45          
+
+17   Dr.Amy                 Surgeon         8pm-2am         BDM             8           
+
+33   Dr.David               Artho           10am-4pm        MBBS,MS         40          
+
+123  Dr. Ross               Headackes       8pm-10am        MST             102         
+
+66   Dr. Mike Kale          Heart           9am-3pm         MS              2           
+
